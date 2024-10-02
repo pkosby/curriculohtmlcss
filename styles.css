@@ -27,7 +27,9 @@ body {
     color:white;
     border-radius: 40px;
 }
-
+.contact-number {
+    color:#f4f4f4;
+}
 .cv-name {
     font-size: 2rem;
     font-weight: bold;
